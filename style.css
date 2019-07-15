@@ -1,0 +1,40 @@
+h1{
+  font-family: 'Literata', serif;
+  color:white;
+  text-shadow: 2px 2px #B1A296;
+}
+h2{
+  font-family: 'Literata', serif;
+  color:white;
+}
+.title {
+background-color: #7395AE;
+border: 5px solid #557A95;
+border-radius: 10px;
+height:100px;
+width:770px;
+
+}
+.fullpage{
+  background-color: #7395AE;
+}
+.button {
+  background-color: #5D5C61;
+  border: white;
+  color: #7395AE;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: white;
+}
+img{
+  width: 270px;
+  height: 250px;
+  object-fit: cover;
+}
+#text{
+  font-size: 40px;
+}
